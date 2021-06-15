@@ -41,3 +41,6 @@ Note ** I have used other GeoJSON files (not on ONS) and was able to use
 function choropleth on plotly express, however when using ONS files, I found that this would
 not work, suggesting to me a possible bug in the library, so instead I use choropleth_mapbox
 which is similar.
+
+-----------------------------------------------------------------------------------------------
+Start to end video on interactive mapping here: https://youtu.be/6gqHiSFD7yI
